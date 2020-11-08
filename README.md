@@ -14,7 +14,7 @@ just for reference
 use it carefully
 
 ----------------------------------
-oc 0.6.3   macOS 11.0.1 beta (20B5012d)
+oc 0.6.3   macOS 10.15.7
 ----------------------------------
 已屏蔽第二个m.2接口的win盘(mbr格式)，主板已解锁cfg-lock，已定制usb，删除了三码
 
